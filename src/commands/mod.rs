@@ -1,4 +1,4 @@
-pub mod configure;
-pub mod delete;
 pub mod install;
 pub mod list;
+pub mod set;
+pub mod uninstall;
